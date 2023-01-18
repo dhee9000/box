@@ -1,6 +1,6 @@
 {
   "name": "@dhee9000/box",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Box component for React",
   "repository": "https://github.com/dhee9000/box",
   "author": "Dheeraj Yalamanchili",
@@ -22,6 +22,7 @@
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-typescript": "^11.0.0",
     "@types/react": "^18.0.26",
+    "postcss": "^8.4.21",
     "react": "^18.2.0",
     "rollup": "^3.10.0",
     "rollup-plugin-dts": "^5.1.1",
